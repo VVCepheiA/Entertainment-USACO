@@ -1,7 +1,7 @@
 /*
 ID: x65lin1
 PROG: test
-LANG: C++                  (<-- or C++11f you prefer)
+LANG: C++                  
 */
 #include <iostream>
 #include <fstream>
